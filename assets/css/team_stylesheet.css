@@ -57,7 +57,9 @@
 @media (max-width: 425px){
 	
 	.team .team_member{
-	width: 280px;
+	width: 300px;
+		padding: 10px;
+
 
 	}}
 
