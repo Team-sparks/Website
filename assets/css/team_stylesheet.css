@@ -54,6 +54,12 @@
   pointer-events: none;
 }
 
+@media (max-width: 425px){
+	
+	.team .team_member{
+	width: 300px;
+
+	}}
 
 
 /* All Rights Reserved | Copyrights @ KIRANROY. */
