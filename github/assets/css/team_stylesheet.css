@@ -1,0 +1,61 @@
+/* CSS Document */
+/* All Rights Reserved | Copyrights @ KIRANROY. */
+
+
+.team{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.team .team_member{
+  background: #FFFFFF;
+  border: 2px solid #eee;
+  margin: 35px;
+  margin-bottom: 50px;
+  border-radius: 6px;
+  width: 310px;
+  padding: 20px;
+  line-height: 20px;
+  color: #8e8b8b;  
+  position: relative;
+}
+
+.team .team_member h3{
+  color: #171819;
+  font-size: 26px;
+  margin-top: 60px;
+}
+
+.team .team_member h6.role{
+  color: #292B2D;
+  margin: 10px 0;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.team .team_member .team_img{
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: #eee;
+}
+
+.team .team_member .team_img img{
+  width: 120px;
+  height: 120px;
+  padding: 5px;
+  pointer-events: none;
+}
+
+
+
+/* All Rights Reserved | Copyrights @ KIRANROY. */
+
+
